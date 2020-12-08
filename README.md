@@ -1,19 +1,23 @@
 # chimp game
 
-has a splash screen at start of game (my own feature)
+has a splash screen at start of game (my own feature) - (0-20)
 
-I added various levels to choose from (easy, medium, hard, expert, insane)
+I added various levels to choose from (easy, medium, hard, expert, insane) - (10)
 
-ability to pause the game
+Within the various levels to choose from I added multiple monkeys - (10)
 
-audio now says miss
+ability to pause the game - (10)
 
-i added a variation in speed in each run (its not the same each time)(my own feature)
+audio now says miss - (5)
 
-made screen bigger
+i added a variation in speed in each run (its not the same each time)(my own feature) - (0-20)
 
-counts score
+made screen bigger - (5)
 
-has background music
+counts score - (10)
 
-monkey moves around outer edge
+has background music - (10)
+
+monkey moves around outer edge - (10)
+
+Total points without factoring in my own features is 70, maxium points is 90
